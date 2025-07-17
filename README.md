@@ -2,26 +2,26 @@
 
 This machine learning project uses NASA's Kepler dataset to classify exoplanet candidates as **confirmed planets** or **false positives** using multiple ML models.
 
-## 📊 Dataset
+##  Dataset
 
 - **Source**: [NASA Kepler Exoplanet Dataset](https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results)
 - **Total Rows**: 9564  
 - **Goal**: Predict whether a planetary candidate is a confirmed exoplanet or not.
 
-## 🎯 Target Variable
+##  Target Variable
 
 - `koi_disposition`: [‘CONFIRMED’, ‘FALSE POSITIVE’, ‘CANDIDATE’]
 
 We converted this into a binary classification problem.
 
-## 🧠 Models Used
+##  Models Used
 
 - Logistic Regression
 - Random Forest Classifier
 - K-Nearest Neighbors
 - Support Vector Machine
 
-## 📈 Model Performance
+## Model Performance
 
 | Model                | Accuracy |
 |---------------------|----------|
