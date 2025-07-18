@@ -49,7 +49,7 @@ We converted this into a binary classification problem.
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/kepler-exoplanet-classifier.git
+git clone https://github.com/mohitsharmas97/Exoplanet-Classifier-Kepler.git
 cd kepler-exoplanet-classifier
 pip install -r requirements.txt
 jupyter notebook
